@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya4801
 - 👀 I’m a learner, interested in human behaviour and you. 
-- 🌱 I’m currently learning Cpp and Python and Data structures and algos.
+- 🌱 I’m well versed in C++, Python and Data structures & algos.
 - 💞️ I’m looking to collaborate on making this world easy to live.
 - 📫 You can reach me nowhere.
 
